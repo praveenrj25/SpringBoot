@@ -5,7 +5,7 @@ This is a simple [Event](https://github.com/praveenrj25/SpringBoot/tree/master/s
 
 ## Run Configuration
 
-Run As SpringBootApplication through IDE. And in browser hit **_http://localhost:8080_**
+Run As **SpringBootApplication** through IDE. And in browser hit **_http://localhost:8080_**
 
 `create` POST http://localhost:8080/api/events and pass Event Resquent Body
 
