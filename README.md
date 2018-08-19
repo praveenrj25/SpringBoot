@@ -1,7 +1,10 @@
 # SpringBoot
 RESTful webservices using spring boot and hibernate framework.
 
-This is a simple [Event](https://github.com/praveenrj25/SpringBoot/tree/master/spring-boot-rest/src/main/java/com/rest/springboot/model) API, exposes to **create**, **update** and **delete** events. Also have the functionalities to *getAllEvents*, *getEventByID* and *search*.
+This is a simple [Event](https://github.com/praveenrj25/SpringBoot/blob/master/spring-boot-rest/src/main/java/com/rest/springboot/model/Event.java) API, exposes to **create**, **update** and **delete** events. Also have the functionalities to *getAllEvents*, *getEventByID* and *search*.
+
+## Database
+Refer [db.sql](https://github.com/praveenrj25/SpringBoot/blob/master/spring-boot-rest/db.sql) to create database and table. The file had 8 built-in insert queries to kick start backend config.
 
 ## Run Configuration
 
